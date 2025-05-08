@@ -1,0 +1,40 @@
+1.Programs must be written for people to read, and only incidentally for machines to execute.— Harold Abelson
+
+2.Any fool can write code that a computer can understand. Good programmers write code that humans can understand — Martin Fowler
+
+3.The most disastrous thing that you can ever learn is your first programming language - Alan Kay
+
+4.Before software can be reusable, it first has to be usable — Ralph Johnson
+
+5.Simplicity is the soul of efficiency — Austin Freeman
+
+6. Walking on water and developing software from a specification are easy if both are frozen — Edward V. Berard
+
+7.The best thing about a boolean is even if you are wrong, you are only off by a bit — Anonymous
+
+8.Good code is its own best documentation — Steve McConnell
+
+9.It’s not a bug – it’s an undocumented feature — Old Programmer Proverb
+
+10.Deleted code is debugged code — Jeff Sickel
+
+11.There are only two hard things in Computer Science: cache invalidation, naming things, and off-by-one errors — Phil Karlton (with a twist)
+
+12.Why do Java developers wear glasses? Because they don’t see sharp — Anonymous
+
+13.A user interface is like a joke. If you have to explain it, it’s not that good — Martin LeBlanc
+
+14.I don’t care if it works on your machine! We are not shipping your machine — Vidiu Platon
+
+15.To understand what recursion is, you must first understand recursion — Every CS professor ever
+
+16.There’s no place like 127.0.0.1 — Anonymous
+
+17.Software and cathedrals are much the same – first we build them, then we pray — Sam Redwine
+
+18.How you look at it is pretty much how you'll see it — Rasheed Ogunlaru
+
+19.I have not failed. I’ve just found 10,000 ways that won’t work... and pushed them to production — Thomas Edison, if he was a developer
+
+20.Real programmers count from 0 — Anonymous
+
